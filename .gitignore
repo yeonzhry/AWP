@@ -1,0 +1,10 @@
+.env
+*.env
+comments.csv
+scanned.csv
+scanned.xlsx
+video_ids.txt
+__pycache__/
+*.pyc
+venv/
+.venv/

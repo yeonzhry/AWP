@@ -1,0 +1,7 @@
+scikit-learn
+pandas
+joblib
+korcen
+requests
+openpyxl
+google-api-python-client
